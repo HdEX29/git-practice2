@@ -1,5 +1,5 @@
 # Exercices sur git
-
+Coucou
 Il existe plusieurs outils permettant le versionning de fichiers. 
 Il s'avère qu'aujourd'hui, l'outil le plus utilisé est git.
 
@@ -33,7 +33,7 @@ Sur chaque machine, modifiez le fichier `README.md` afin d'y ajouter vos propres
 Les textes que vous devez ajouter ici importent peu, il s'agit simplement de voir comment git réagit aux commits (sauvegardes ).
 
 Donc,dans un premier temps, ajoutez des messages et faites des commits.
-```sh
+```sh 
 # Faites votre modification puis
 git add README.md
 git commit -m "updating readme"
