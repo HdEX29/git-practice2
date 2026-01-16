@@ -1,3 +1,4 @@
+J'aime les patates roties
 # Exercices sur git
 
 Il existe plusieurs outils permettant le versionning de fichiers. 
